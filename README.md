@@ -117,7 +117,7 @@
   <p style="text-align: justify; font-family: cursive; font-size: 14px; color : green ; font-weight : bold">Model Evaluation</p>
   <ul>
     <li><b>Regression:</b> RMSE, R² – Target RMSE &lt; 150 mW/cm².</li>
-    <li><b>Interpretability:</b> Tree-based rules, SHAP to highlight feature impact.</li>
+    <li><b>Interpretability:</b> Tree-based rules, feature analysis to highlight feature impact.</li>
   </ul>
  
 </div>
