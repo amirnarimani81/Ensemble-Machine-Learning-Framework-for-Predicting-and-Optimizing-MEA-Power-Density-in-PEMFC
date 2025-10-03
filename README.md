@@ -119,8 +119,5 @@
     <li><b>Regression:</b> RMSE, R² – Target RMSE &lt; 150 mW/cm².</li>
     <li><b>Interpretability:</b> Tree-based rules, SHAP to highlight feature impact.</li>
   </ul>
-  <p style="text-align: justify; font-family: cursive; font-size: 14px; color : green ; font-weight : bold">Develop</p>
-  <ul>
-    <li><b>Develop:</b> used Streamlit to present and develop models.</li>
-    <ul>
+ 
 </div>
